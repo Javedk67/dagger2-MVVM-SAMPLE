@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="D:/Taniic-Android/app/src/main/java/com/taniic/customer/ui/aboutapp/AboutAppActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_about_app.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_add_pet.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_appointment_after_booking.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_appointment_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_book_appointment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_edit_profile.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_my_plans.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_my_subscription.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/layout/activity_order_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic-Android/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic_driver/app/src/main/java/com/taniic/driver/ui/landing/fragment/orders/ongoing/OngoingFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Taniic_driver/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/dev/ronnie/imageloaderdagger2/data/repository/Repository_Factory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/dagger2sample/presentation/fragments/ImagesListFragmentDirections.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/example/dagger2sample/presentation/fragments/SingleImageFragmentArgs.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/example/dagger2sample/data/model/ImagesResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/dev/ronnie/imageloaderdagger2/di/modules/MainActivityModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/api/ApiService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/api/UnSplashService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/data/datasource/ListDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/data/datasource/SearchDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/data/model/ImagesResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/data/repository/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/di/modules/FragmentBuildersModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/di/modules/ListActivityModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/di/modules/NetworkModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/adapters/ImagesAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/adapters/LoadingStateAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/fragments/ImagesListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/fragments/PostListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/fragments/SearchFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/fragments/SingleImageFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/viewmodels/ImagesListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/presentation/viewmodels/SearchViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/ui/activity/ListActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/ui/fragments/ImagesListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/ui/fragments/MovieListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/ui/viewmodels/MovieListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/ui/viewmodels/ViewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/dagger2sample/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/data/datasource/ListDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/data/datasource/SearchDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/data/repository/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/presentation/adapters/ImagesAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/presentation/fragments/ImagesListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/presentation/fragments/PostListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/presentation/viewmodels/ImagesListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/presentation/viewmodels/SearchViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/imageloaderdagger2/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/data/datasource/ListDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/data/datasource/SearchDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/data/repository/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/presentation/adapters/ImagesAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/presentation/fragments/ImagesListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/presentation/fragments/PostListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/presentation/viewmodels/ImagesListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/presentation/viewmodels/SearchViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ronnie/imageloaderdagger2/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/api/UnSplashService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/data/datasource/ListDataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/data/model/ListResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/data/repository/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/di/modules/MainActivityModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/di/modules/NetworkModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/presentation/ListActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/presentation/fragments/ImagesListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/presentation/fragments/PostListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/presentation/fragments/SingleImageFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/presentation/viewmodels/ImagesListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/utils/Config.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/dev/ronnie/imageloaderdagger2/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_images_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_image.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/xml.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/xml.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dagger2UsingMVVMKotlinAndroid-master/app/src/main/java/com/example/myapplication/network/view/PostListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
