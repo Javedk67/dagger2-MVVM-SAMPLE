@@ -1,4 +1,4 @@
-# Images
+# Movies List
 
 The App uses a set of Android Jetpack libraries plus Retrofit to dispay data from REST API(Unsplash). The App uses Kotlin.
 
